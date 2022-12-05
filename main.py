@@ -1,6 +1,6 @@
 # Creator: Reenphy George
 # Date : 26th December
-# Title: Sheets to VCF with batch rename
+# Title: Excel Sheets to VCF with batch rename
 
 from openpyxl import load_workbook
 from openpyxl.utils import get_column_letter
